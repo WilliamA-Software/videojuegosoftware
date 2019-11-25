@@ -47,7 +47,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li><a href="principal.php">Inicio</a></li>
+        <li><a href="index.php">Inicio</a></li>
         <li  class="active"><a href="agregarjuego.php">Agregar Juegos</a></li>
         <li><a href="consultarjuego.php">Consultar Juegos</a></li>
         <li><a href="actualizarjuego.php">Actualizar Juegos</a></li>
